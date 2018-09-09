@@ -1,3 +1,3 @@
 # New-Website
-This is a new version. blacK & White version. 
-
+This is a new version. Black & white version. 
+This website is only for test.
